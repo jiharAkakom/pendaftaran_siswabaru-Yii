@@ -87,7 +87,7 @@ $this->widget('bootstrap.widgets.TbBreadcrumbs', array(
 		 array(
 			'name'=>'thn_ajar_id',
 			'type'=>'html',
-			'value'=>$model->thn_ajar_id,
+			'value'=>$model->thnAjar->tahun_ajaran,
 		   ),
 /*
 		 array(
